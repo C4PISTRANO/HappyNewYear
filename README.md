@@ -8,7 +8,8 @@ https://user-images.githubusercontent.com/80759812/210158970-79041e1b-0d41-458a-
 
 ### Simple CSS and JavaScript is used to create this effect.
 
-## Visit: [HappyNewYear](https://c4pistrano.github.io/HappyNewYear/) to test. Click on each text to make it glow.
+## Visit: [HappyNewYear](https://c4pistrano.github.io/HappyNewYear/) to test. 
+Click on each text to make it glow.
 
  
 
